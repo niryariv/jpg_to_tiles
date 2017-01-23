@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
     <TileMap version="1.0.0" tilemapservice="http://tms.osgeo.org/1.0.0">
-      <Title>chura1.jpg</Title>
+      <Title>chura2.jpg</Title>
       <Abstract></Abstract>
       <SRS>EPSG:900913</SRS>
-      <BoundingBox minx="34.91818900397566" miny="31.29369385246673" maxx="34.92934827218284" maxy="31.31045835959462"/>
-      <Origin x="34.91818900397566" y="31.29369385246673"/>
+      <BoundingBox minx="34.91900899903594" miny="31.29190637039149" maxx="34.93862946055064" maxy="31.30144184214311"/>
+      <Origin x="34.91900899903594" y="31.29190637039149"/>
       <TileFormat width="256" height="256" mime-type="image/png" extension="png"/>
       <TileSets profile="mercator">
         <TileSet href="14" units-per-pixel="9.55462853393555" order="14"/>
